@@ -1,0 +1,97 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: aliceblue;
+    color: #151313;
+    line-height: 1.6;
+    font-size: 16px;
+    font-weight: 400;
+    text-rendering: optimizeLegibility;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    background-color: rgb(198, 216, 231);
+    
+    color: #342736;
+    padding: 20px;
+    text-align: center;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+img {
+width: 50%;
+height: 50%;
+
+
+
+}
+nav {
+    margin-top: 10px;
+}
+
+nav a {
+    color: #342736;
+    text-decoration: none;
+    margin-right: 10px;
+    font-style: oblique;
+}
+
+.main {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10px;
+    margin-right: 10px;
+   
+}
+
+article {
+    margin-bottom: 20px;
+}
+
+p {
+    margin-bottom: 10px;
+    align-self: auto;
+    margin-left: ;
+    margin-right: ;
+}
+
+h2 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+footer {
+    background-color: rgb(198, 216, 231);#416c7b;
+    background-color: ;
+    color: #140c0c;
+   padding: 20px;
+    text-align: center;
+    border-inline-color: #000000;
+    
+}
+
+article blockquate {
+    font-size: 18px;
+   
+    font-style:italic;
+    align-self: center;
+}
+
+p b {
+    font-style: inherit;
+    font-weight: bolder;
+}
+
